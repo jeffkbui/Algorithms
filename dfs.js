@@ -17,4 +17,4 @@ class Node {
 // Do not edit the line below.
 exports.Node = Node;
 
-// new notes are here asdfsdafsdafdsfasdfafasdfasdfasdfsda
+// creating new notes here with tips on how to approach algos
