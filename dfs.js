@@ -11,6 +11,7 @@ class Node {
 
   depthFirstSearch(array) {
     // Write your code here.
+    // make sure to write pseudo code before
     // push child to end
   }
 }
@@ -18,4 +19,3 @@ class Node {
 // Do not edit the line below.
 exports.Node = Node;
 
-// creating new notes here with tips on how to approach algos more notes here here
